@@ -16,8 +16,6 @@ import {
 	CInput,
 	CLabel,
 	CFormGroup,
-	CTextarea,
-	CSelect,
 	CImg,
 	CSwitch,
 	CInputCheckbox,
